@@ -3,12 +3,20 @@ Desafio imposto pelo curso FullCycle de Docker, no qual está incluso no módulo
 
 ### Requisitos do Desafio
 > Trabalhar com a linguagem GO!
+
+</br>
+
 > Publicar uma imagem no docker hub.
+
+</br>
+
 > Ter como resultado: Code.education Rocks!
+
+</br>
+
 > A imagem do projeto Go precisa ter menos de 2MB
   
 ### Para executar o projeto :whale:
-##### Dockerhub :whale:
 ```
 docker run fehyamaoka/codeeducation
 ```
