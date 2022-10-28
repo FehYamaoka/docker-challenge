@@ -14,11 +14,17 @@ Desafio imposto pelo curso FullCycle de Docker, no qual está incluso no módulo
 ```
  docker-compose up -d --build
 ```
-```
+<!-- ```
  docker exec -it app bash
 ```
 ```
  Dentro do bash execute
  node index.js
+``` -->
 ```
+ docker logs app
+```
+
+Executamos o docker logs app para poder ver as mensagens de conexão e informações de que a aplicação está rodando na porta 3000. 
+Acessível também pela porta 8080 do Nginx
 <br/>
